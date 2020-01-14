@@ -1,7 +1,7 @@
 # Monorepo overview
 
 The [loopback-next](https://github.com/strongloop/loopback-next) repository uses
-[lerna](https://lernajs.io/) to manage multiple packages for LoopBack 4.
+[lerna](https://lerna.js.org/) to manage multiple packages for LoopBack 4.
 
 <!-- PLEASE KEEP THE TABLE ROWS SORTED ALPHABETICALLY BY PACKAGE NAME-->
 
